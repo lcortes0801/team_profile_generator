@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcortes0801/team-profile-generator.git"
+  },
+  "author": "lcortes0801",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/lcortes0801/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0",
+    "short-uuid": "^4.2.0",
+    "uuid": "^8.3.2"
+  }
+}
