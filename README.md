@@ -21,7 +21,7 @@ Navigate to where `package.json` is and type `npm install` to install the depend
 
 ![](./readme/walkthrough.gif)
 
-A high quality video of the walkthrough can be found [here](https://youtu.be/7ll4HEqnqSU).
+A high quality video of the walkthrough can be found [here](https://drive.google.com/file/d/1kZpfswgcwvDJvCtxhGOlYzU0aRbEyIio/view?usp=sharing).
 
 The generated page will look similar to this:
 ![](./readme/main.png)
